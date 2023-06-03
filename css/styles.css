@@ -1,0 +1,17 @@
+:root {
+    --primary-bg-color:rgba(229, 229, 229, 1);
+    --bg-color:rgba(22, 58, 36, 1);
+
+}
+.body{
+    background-size: 1600px auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+.head,
+.hero{
+    background-color: var(--bg-color);
+}
+.nav{
+    display: inline;
+    position: relative;
+}
